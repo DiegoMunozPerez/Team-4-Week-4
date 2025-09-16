@@ -21,7 +21,13 @@ Summarize your learnings from the lab here.
 
 ### Why are the groups of 1’s (or 0’s) that we select in the KMap able to go across edges?
 
+Because the K-Map can wrap around like a cylender, only one variable changes as it moves over one colum/row.
+
 ### Why are the names Sum of Products and Products of Sums?
 
+Becuase SOP we take thhe sum of the outputs and multiply them, POS we multiply the outputs and add them.
+
 ### Open the test.v file – how are we able to check that the signals match using XOR?
+
+When runnig simulation the singnals match because it is a XOR, so in a succesfull run if no errors occur then the signal match.
 
